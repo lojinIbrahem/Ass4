@@ -1,0 +1,11 @@
+body{
+     background-color:#24353f ;
+     color:#17a2b8 ;
+}
+.group ,p{
+ box-shadow:-5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.navbar{
+    background-color:#1ea1ede8 ;
+
+}
